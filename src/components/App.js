@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
 import WorkoutPlan from "../containers/WorkoutPlan";
-// import './App.scss';
 
 
 class App extends Component {
@@ -11,7 +10,7 @@ class App extends Component {
 
                 </header>
                 <main>
-                    <WorkoutPlan />
+                    <WorkoutPlan  />
                 </main>
             </div>
         );
